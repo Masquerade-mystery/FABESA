@@ -26,7 +26,6 @@ class FABESA_KP(ABEnc):
         self.util = MSP(self.group, verbose)        
 
     def setup(self):
-
         # pick parameters
         g_1 = self.group.random(G1)
         g_2 = self.group.random(G2)
@@ -42,7 +41,6 @@ class FABESA_KP(ABEnc):
         return pk, msk
 
     def keygen(self, pk, msk, attr_policy):
-
         policy = self.util.createPolicy(attr_policy)
         mono_span_prog = self.util.convert_policy_to_msp(policy)
         num_cols = self.util.len_longest_row
