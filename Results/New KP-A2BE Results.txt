@@ -1,0 +1,254 @@
+KP-A2BE: Running times (ms) curve MNT224: n1=1  n2=1  m=10  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.13      8.84    28.00    14.62
+CWDWL KP-A2BE           28.53     51.99    45.65    23.04
+FEASE KP-A2BE           19.68      8.30    16.80    11.34
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=2  n2=1  m=10  i=2
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.98     11.70    28.83    29.42
+CWDWL KP-A2BE           28.42    103.96    44.03    44.42
+FEASE KP-A2BE           19.30     10.65    16.76    22.01
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=3  n2=1  m=10  i=3
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             20.03     14.35    28.43    43.34
+CWDWL KP-A2BE           27.96    153.46    43.14    65.31
+FEASE KP-A2BE           18.70     12.56    16.25    31.56
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=4  n2=1  m=10  i=4
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.78     16.33    28.55    57.00
+CWDWL KP-A2BE           28.36    203.92    42.95    86.08
+FEASE KP-A2BE           18.89     15.65    16.62    42.69
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=5  n2=1  m=10  i=5
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.56     18.36    27.86    71.67
+CWDWL KP-A2BE           28.11    253.52    42.45   108.34
+FEASE KP-A2BE           19.24     17.92    16.73    53.93
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=6  n2=1  m=10  i=6
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.28     21.73    28.11    85.82
+CWDWL KP-A2BE           28.36    308.41    42.89   130.71
+FEASE KP-A2BE           19.48     20.81    16.68    64.25
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=7  n2=1  m=10  i=7
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.66     24.91    29.06   100.90
+CWDWL KP-A2BE           27.85    356.80    42.92   150.41
+FEASE KP-A2BE           19.36     23.44    16.66    75.96
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=8  n2=1  m=10  i=8
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.50     27.17    28.29   115.20
+CWDWL KP-A2BE           28.22    409.90    43.15   175.09
+FEASE KP-A2BE           19.70     25.58    16.79    85.30
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=9  n2=1  m=10  i=9
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.52     29.59    28.38   130.29
+CWDWL KP-A2BE           28.20    456.76    43.22   193.47
+FEASE KP-A2BE           19.01     28.73    16.50    95.48
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=10  n2=1  m=10  i=10
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.01     31.70    27.89   141.75
+CWDWL KP-A2BE           27.98    510.35    43.63   218.20
+FEASE KP-A2BE           19.61     31.17    16.58   108.93
+
+**************************************************************
+
+
+
+KP-A2BE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.02     29.68   133.19    13.74
+CWDWL KP-A2BE           27.49    547.22   434.34   235.15
+FEASE KP-A2BE           17.81     28.08    68.48    10.50
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=20  n2=20  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             17.75     52.74   132.38    13.99
+CWDWL KP-A2BE           27.08    993.57   409.93   420.99
+FEASE KP-A2BE           24.54     78.27    89.21    13.54
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=30  n2=30  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             17.79     76.75   132.89    14.06
+CWDWL KP-A2BE           25.95   1425.85   387.24   601.53
+FEASE KP-A2BE           17.78     73.55    68.48    10.66
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=40  n2=40  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             20.21    120.45   155.51    17.37
+CWDWL KP-A2BE           28.30   2062.52   427.95   877.59
+FEASE KP-A2BE           19.66    104.99    75.56    12.02
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=50  n2=50  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.65    137.05   146.17    15.60
+CWDWL KP-A2BE           28.70   2626.21   430.73  1095.90
+FEASE KP-A2BE           19.34    133.76    75.48    12.40
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=60  n2=60  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.82    165.26   147.09    16.59
+CWDWL KP-A2BE           28.15   3061.30   421.62  1280.65
+FEASE KP-A2BE           17.80    145.29    68.86    11.40
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=70  n2=70  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.73    175.64   135.59    15.06
+CWDWL KP-A2BE           27.76   3620.19   420.46  1523.90
+FEASE KP-A2BE           19.31    184.39    74.83    12.71
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=80  n2=80  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.60    216.08   144.54    16.43
+CWDWL KP-A2BE           28.77   4105.56   424.20  1742.68
+FEASE KP-A2BE           19.53    210.04    75.95    13.00
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=90  n2=90  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.26    242.25   144.63    16.68
+CWDWL KP-A2BE           28.37   4669.62   431.96  1981.01
+FEASE KP-A2BE           19.97    232.77    75.70    12.63
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.33    266.63   142.38    17.04
+CWDWL KP-A2BE           27.93   5106.27   418.71  2166.82
+FEASE KP-A2BE           19.16    259.01    75.23    13.29
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.65     36.81   161.35    17.35
+CWDWL KP-A2BE           27.16    475.66   389.82   203.90
+FEASE KP-A2BE           17.72     27.92    68.21    10.54
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=20  n2=20  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             17.76     52.53   132.00    14.07
+CWDWL KP-A2BE           26.07    948.71   389.14   404.10
+FEASE KP-A2BE           17.66     50.66    68.42    10.54
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=30  n2=30  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             22.23     84.60   145.94    15.25
+CWDWL KP-A2BE           28.92   1558.37   431.25   660.09
+FEASE KP-A2BE           20.47     81.10    74.98    12.30
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=40  n2=40  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.34    109.72   145.27    15.52
+CWDWL KP-A2BE           28.92   2077.49   426.77   879.69
+FEASE KP-A2BE           19.36    105.39    78.38    11.86
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=50  n2=50  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             20.43    142.10   152.40    15.73
+CWDWL KP-A2BE           28.83   2580.73   430.55  1096.71
+FEASE KP-A2BE           19.87    133.58    75.64    12.37
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=60  n2=60  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.50    164.48   145.25    16.34
+CWDWL KP-A2BE           31.74   3090.11   423.27  1300.40
+FEASE KP-A2BE           19.22    154.87    73.58    11.91
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=70  n2=70  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.13    189.07   143.55    16.27
+CWDWL KP-A2BE           28.27   3581.91   420.19  1503.75
+FEASE KP-A2BE           18.99    178.88    73.78    12.30
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=80  n2=80  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             22.55    219.62   144.02    16.79
+CWDWL KP-A2BE           27.61   4077.82   419.74  1723.93
+FEASE KP-A2BE           19.23    205.69    73.86    12.92
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=90  n2=90  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.99    241.34   141.33    16.82
+CWDWL KP-A2BE           28.12   4558.32   419.93  1936.60
+FEASE KP-A2BE           19.07    232.24    73.78    12.87
+
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             22.38    270.61   145.26    17.17
+CWDWL KP-A2BE           28.14   5068.43   420.06  2155.32
+FEASE KP-A2BE           19.25    256.57    73.37    12.95
+
+# New experiments for the updated KP-A2BE scheme
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.55     25.72   139.65    14.43
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=20  n2=20  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             19.46     44.20   144.81    15.26
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=30  n2=30  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             21.40     65.51   142.91    14.85
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=40  n2=40  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.84     82.63   139.83    15.62
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=50  n2=50  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.69    101.33   137.85    15.07
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=60  n2=60  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.38    120.80   138.71    15.43
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=70  n2=70  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.43    138.90   136.87    15.37
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=80  n2=80  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.79    158.39   138.43    15.77
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=90  n2=90  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.64    179.53   137.19    16.09
+**************************************************************
+KP-A2BE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=1
+KP-ABE                  Setup    KeyGen     Enc      Dec
+Our KP-A2BE             18.95    198.17   138.20    16.58
+**************************************************************

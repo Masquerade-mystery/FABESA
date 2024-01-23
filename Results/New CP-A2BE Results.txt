@@ -1,0 +1,224 @@
+CP-A2BE: Running times (ms) curve MNT224: n1=1  n2=1  m=10  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.88     17.63    17.61    14.34
+CDWL CP-A2BE            37.47    468.95     7.37    25.41
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=2  n2=1  m=10  i=2
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.23     17.63    20.08    29.39
+CDWL CP-A2BE            38.43    467.77    12.44    52.17
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=3  n2=1  m=10  i=3
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.02     17.49    22.18    43.16
+CDWL CP-A2BE            35.31    442.12    15.91    70.18
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=4  n2=1  m=10  i=4
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.52     16.32    21.74    52.84
+CDWL CP-A2BE            34.67    433.50    20.04    92.33
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=5  n2=1  m=10  i=5
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             20.51     18.23    25.90    71.66
+CDWL CP-A2BE            38.13    473.91    27.06   124.91
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=6  n2=1  m=10  i=6
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.86     17.97    28.52    87.75
+CDWL CP-A2BE            37.61    471.36    31.76   151.24
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=7  n2=1  m=10  i=7
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.65     18.27    29.57   100.99
+CDWL CP-A2BE            38.90    477.34    37.12   178.85
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=8  n2=1  m=10  i=8
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             20.77     18.39    32.45   117.32
+CDWL CP-A2BE            39.59    487.29    42.42   208.01
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=9  n2=1  m=10  i=9
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.79     18.90    36.23   130.15
+CDWL CP-A2BE            38.25    472.93    46.88   226.84
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=10  n2=1  m=10  i=10
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             20.22     19.89    35.10   143.79
+CDWL CP-A2BE            42.30    520.87    56.67   276.53
+
+
+
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=10  n2=1  m=100  i=10
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.48    138.40    38.13   148.80
+CDWL CP-A2BE            37.72   4633.61    51.33   248.76
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=20  n2=1  m=100  i=20
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             21.07    134.77    55.50   288.49
+CDWL CP-A2BE            37.39   4607.40   101.16   496.65
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=30  n2=1  m=100  i=30
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             21.58    131.56    73.53   430.97
+CDWL CP-A2BE            39.06   4614.81   148.60   750.30
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=40  n2=1  m=100  i=40
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.45    132.83    94.62   184.76
+CDWL CP-A2BE            38.06   4674.63   196.85   326.08
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=50  n2=1  m=100  i=50
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             21.02    124.44   107.51   670.67
+CDWL CP-A2BE            38.28   4814.64   252.09  1269.49
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=60  n2=1  m=100  i=60
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             17.84    123.39   123.29   803.02
+CDWL CP-A2BE            35.20   4333.11   272.13  1391.07
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=70  n2=1  m=100  i=70
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             17.89    122.11   141.35   928.22
+CDWL CP-A2BE            36.82   4519.89   333.69  1718.61
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=80  n2=1  m=100  i=80
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.43    132.89   173.87  1152.18
+CDWL CP-A2BE            37.71   4623.10   394.58  1987.28
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=90  n2=1  m=100  i=90
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.10    129.01   187.28  1243.23
+CDWL CP-A2BE            35.04   4272.03   405.94  2080.87
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=100  n2=1  m=100  i=100
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             17.92    123.90   198.44  1196.52
+CDWL CP-A2BE            35.01   4347.82   464.07  2121.74
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.65    126.10    33.32    13.91
+CDWL CP-A2BE            35.05   4261.40    47.07   201.99
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=20  n2=20  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             17.67    121.90    50.21    13.99
+CDWL CP-A2BE            37.05   4593.49    98.30   430.34
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=30  n2=30  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.85    135.79    81.27    15.51
+CDWL CP-A2BE            38.46   4684.54   153.54   656.56
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=40  n2=40  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             20.82    133.97    97.48    15.82
+CDWL CP-A2BE            38.28   4734.91   205.16   875.81
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=50  n2=50  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.63    133.82   119.55    15.85
+CDWL CP-A2BE            38.45   4703.95   255.44  1095.22
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=60  n2=60  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             20.13    133.39   136.86    16.25
+CDWL CP-A2BE            38.13   4662.50   303.90  1289.58
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=70  n2=70  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.50    133.47   155.24    16.24
+CDWL CP-A2BE            37.74   4670.24   347.26  1518.96
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=80  n2=80  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.24    134.67   179.16    16.35
+CDWL CP-A2BE            37.44   4644.31   394.93  1719.95
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=90  n2=90  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.39    133.07   196.74    16.45
+CDWL CP-A2BE            38.39   4629.01   442.21  1937.31
+
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.32    134.33   221.60    16.74
+CDWL CP-A2BE            37.78   4661.15   489.56  2157.91
+
+# New experiments for the updated CP-A2BE scheme
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.13    134.25    36.07    15.49
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=20  n2=20  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.62    129.09    53.21    14.53
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=30  n2=30  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.22    128.36    72.79    14.60
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=40  n2=40  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.69    127.20    91.87    14.72
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=50  n2=50  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             19.04    128.51   112.04    14.87
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=60  n2=60  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.76    127.75   130.31    15.17
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=70  n2=70  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.86    129.09   150.20    15.19
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=80  n2=80  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.65    127.05   168.93    15.50
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=90  n2=90  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             18.70    128.75   186.88    15.68
+**************************************************************
+CP-A2BE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+Our CP-A2BE             20.58    135.39   214.82    16.20
+**************************************************************

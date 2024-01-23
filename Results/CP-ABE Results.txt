@@ -1,0 +1,275 @@
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.33    125.94    34.09    14.38
+CDWL16                  34.86   4243.61    47.99   200.61
+ZZZSQ21 CPA2BE          17.91    117.77   102.22   328.64
+FAME CP-ABE k=2         20.14    531.97    53.10    20.06
+FABEO CP-ABE             9.05     63.14    21.78    10.23
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=20  n2=20  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.62    125.00    51.83    14.64
+CDWL16                  37.99   4461.43    97.49   412.37
+ZZZSQ21 CPA2BE          18.62    122.74   204.16   342.92
+FAME CP-ABE k=2         22.20    581.32    99.67    21.84
+FABEO CP-ABE             9.56     66.52    36.55    10.83
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=30  n2=30  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.16    125.08    70.35    14.90
+CDWL16                  36.88   4416.51   146.19   618.32
+ZZZSQ21 CPA2BE          18.29    121.98   293.74   339.75
+FAME CP-ABE k=2         21.38    571.76   138.43    22.13
+FABEO CP-ABE             9.56     66.66    49.43    10.86
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=40  n2=40  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.67    127.65    91.71    14.74
+CDWL16                  37.38   4405.08   194.13   816.47
+ZZZSQ21 CPA2BE          18.33    121.03   382.70   338.38
+FAME CP-ABE k=2         21.18    566.34   180.97    21.63
+FABEO CP-ABE             9.48     67.63    62.31    10.87
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=50  n2=50  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.06    128.16   111.13    15.26
+CDWL16                  36.55   4422.43   242.01  1017.55
+ZZZSQ21 CPA2BE          18.93    120.71   480.07   339.53
+FAME CP-ABE k=2         21.47    568.23   227.69    21.96
+FABEO CP-ABE             9.58     66.72    73.93    10.90
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=60  n2=60  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.29    126.41   130.08    15.36
+CDWL16                  36.48   4428.30   290.33  1230.49
+ZZZSQ21 CPA2BE          18.60    121.37   576.16   340.85
+FAME CP-ABE k=2         21.65    575.88   273.14    22.12
+FABEO CP-ABE             9.70     66.78    87.91    11.22
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=70  n2=70  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.24    127.06   148.89    15.26
+CDWL16                  37.38   4430.40   334.00  1420.75
+ZZZSQ21 CPA2BE          18.36    121.92   656.68   339.71
+FAME CP-ABE k=2         21.37    572.95   312.28    22.24
+FABEO CP-ABE             9.44     65.84    99.75    11.33
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=80  n2=80  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.22    126.18   166.38    15.31
+CDWL16                  36.66   4434.57   379.95  1624.48
+ZZZSQ21 CPA2BE          18.65    120.16   754.91   337.68
+FAME CP-ABE k=2         22.08    565.44   358.36    22.13
+FABEO CP-ABE             9.56     66.93   112.36    10.95
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=90  n2=90  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.35    126.54   186.77    15.53
+CDWL16                  36.38   4420.15   432.52  1829.06
+ZZZSQ21 CPA2BE          18.97    121.89   861.07   339.43
+FAME CP-ABE k=2         21.41    568.62   406.43    22.73
+FABEO CP-ABE             9.78     66.00   128.48    11.31
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.23    125.67   205.20    15.90
+CDWL16                  37.68   4489.37   494.36  2056.13
+ZZZSQ21 CPA2BE          18.77    122.01   930.89   339.78
+FAME CP-ABE k=2         21.50    579.80   474.83    23.10
+FABEO CP-ABE            12.13     73.07   155.71    12.19
+
+
+
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=10  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.09     18.59    35.29    15.51
+CDWL16                  38.08    464.90    49.44   212.23
+ZZZSQ21 CPA2BE          18.66     16.56   107.71    34.49
+FAME CP-ABE k=2         22.14     77.43    58.58    23.43
+FABEO CP-ABE            11.47     13.38    26.26    14.21
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=20  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.41     30.30    36.37    14.60
+CDWL16                  37.35    921.83    51.08   213.67
+ZZZSQ21 CPA2BE          19.38     28.34   110.14    69.50
+FAME CP-ABE k=2         21.21    127.31    55.79    21.56
+FABEO CP-ABE             9.87     18.03    23.78    10.58
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=30  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.43     42.16    34.52    14.23
+CDWL16                  36.95   1341.17    50.23   209.80
+ZZZSQ21 CPA2BE          18.81     40.65   109.85   103.32
+FAME CP-ABE k=2         21.28    184.75    55.54    21.50
+FABEO CP-ABE            10.08     23.93    24.05    10.87
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=40  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.20     53.67    34.25    14.17
+CDWL16                  35.73   1772.72    49.22   207.04
+ZZZSQ21 CPA2BE          18.84     51.97   109.29   136.24
+FAME CP-ABE k=2         21.23    237.87    56.91    21.56
+FABEO CP-ABE             9.77     30.12    23.48    10.72
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=50  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.96     65.84    34.41    14.08
+CDWL16                  36.79   2221.18    50.78   207.26
+ZZZSQ21 CPA2BE          18.74     63.86   107.89   168.71
+FAME CP-ABE k=2         21.34    292.70    56.05    21.50
+FABEO CP-ABE             9.75     36.79    23.63    10.90
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=60  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.53     78.20    34.52    14.15
+CDWL16                  36.79   2681.16    49.84   207.36
+ZZZSQ21 CPA2BE          19.05     75.16   108.97   206.03
+FAME CP-ABE k=2         21.12    341.79    54.61    21.23
+FABEO CP-ABE             9.54     41.62    24.24    10.81
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=70  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.17     90.55    34.22    14.09
+CDWL16                  35.93   3129.94    49.48   207.65
+ZZZSQ21 CPA2BE          18.54     86.54   106.99   239.04
+FAME CP-ABE k=2         21.75    409.04    56.36    22.02
+FABEO CP-ABE             9.81     48.50    24.25    10.71
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=80  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.78    103.18    35.08    14.61
+CDWL16                  36.45   3689.79    51.03   209.76
+ZZZSQ21 CPA2BE          18.52     98.93   108.48   270.69
+FAME CP-ABE k=2         21.91    465.86    55.80    22.07
+FABEO CP-ABE             9.73     54.98    23.68    10.67
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=90  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.29    114.68    35.09    13.91
+CDWL16                  36.80   3992.02    49.25   207.29
+ZZZSQ21 CPA2BE          18.42    109.54   109.42   304.17
+FAME CP-ABE k=2         21.08    510.01    56.52    21.53
+FABEO CP-ABE             9.91     60.30    23.94    10.69
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=100  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.58    128.03    33.94    14.27
+CDWL16                  36.84   4420.81    49.38   206.54
+ZZZSQ21 CPA2BE          18.51    120.94   109.85   337.39
+FAME CP-ABE k=2         21.07    568.31    54.50    21.23
+FABEO CP-ABE             9.57     66.26    23.67    11.90
+
+
+
+
+CP-ABE: Running times (ms) curve MNT224: n1=1  n2=1  m=10  i=1
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.10     16.99    16.72    14.12
+CDWL16                  39.53    497.89     8.32    27.33
+ZZZSQ21 CPA2BE          19.31     17.64    26.00    35.69
+FAME CP-ABE k=2         21.55     76.10    20.53    21.77
+FABEO CP-ABE            11.87     12.47    12.52    11.51
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=2  n2=1  m=10  i=2
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            21.92     19.06    21.96    32.76
+CDWL16                  39.99    471.14    13.37    50.81
+ZZZSQ21 CPA2BE          18.61     16.72    34.30    34.53
+FAME CP-ABE k=2         21.58     72.81    24.77    21.48
+FABEO CP-ABE             9.69     11.72    13.20    10.84
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=3  n2=1  m=10  i=3
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.37     17.12    20.72    41.85
+CDWL16                  36.01    455.90    16.34    73.12
+ZZZSQ21 CPA2BE          18.87     17.26    44.86    34.98
+FAME CP-ABE k=2         21.74     73.29    28.90    21.12
+FABEO CP-ABE             9.64     12.63    15.13    11.00
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=4  n2=1  m=10  i=4
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.10     18.02    22.93    55.41
+CDWL16                  36.24    454.92    21.23    97.30
+ZZZSQ21 CPA2BE          19.01     16.82    53.60    35.46
+FAME CP-ABE k=2         21.67     75.00    31.78    21.94
+FABEO CP-ABE             9.38     11.48    15.25    10.51
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=5  n2=1  m=10  i=5
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.85     18.27    25.19    69.28
+CDWL16                  37.75    458.20    26.61   120.38
+ZZZSQ21 CPA2BE          19.00     17.48    64.84    34.46
+FAME CP-ABE k=2         21.69     75.26    36.74    21.75
+FABEO CP-ABE            10.26     11.98    17.87    11.16
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=6  n2=1  m=10  i=6
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.15     17.44    27.18    84.57
+CDWL16                  36.21    452.39    29.95   143.65
+ZZZSQ21 CPA2BE          19.13     17.04    71.73    35.43
+FAME CP-ABE k=2         21.89     73.97    40.53    21.83
+FABEO CP-ABE             9.53     12.23    18.45    11.07
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=7  n2=1  m=10  i=7
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.85     17.53    29.06    96.90
+CDWL16                  36.74    456.14    35.82   167.60
+ZZZSQ21 CPA2BE          18.61     17.00    80.94    34.47
+FAME CP-ABE k=2         21.28     74.32    44.20    21.36
+FABEO CP-ABE             9.87     11.96    19.28    11.11
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=8  n2=1  m=10  i=8
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.79     17.58    30.58   111.12
+CDWL16                  36.60    453.21    40.02   190.97
+ZZZSQ21 CPA2BE          19.34     16.84    91.82    35.50
+FAME CP-ABE k=2         21.71     74.02    48.46    21.85
+FABEO CP-ABE             9.83     11.82    21.24    11.12
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=9  n2=1  m=10  i=9
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            19.03     17.29    33.14   124.91
+CDWL16                  36.75    455.92    45.53   214.92
+ZZZSQ21 CPA2BE          18.83     17.35   100.85    35.27
+FAME CP-ABE k=2         21.49     73.20    51.67    21.21
+FABEO CP-ABE             9.41     11.47    21.91    10.55
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=1  m=10  i=10
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEA2BE-CPABE            18.87     17.56    35.52   138.71
+CDWL16                  37.04    450.36    48.90   237.87
+ZZZSQ21 CPA2BE          18.26     16.67   105.62    34.81
+FAME CP-ABE k=2         21.03     72.36    55.71    21.29
+FABEO CP-ABE             9.83     11.96    23.91    10.98
+
+**************************************************************

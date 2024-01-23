@@ -1,0 +1,151 @@
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=10  i=10
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.59     19.03    38.22    15.81
+BSW07 CP-ABE            20.40     58.62    64.04    80.56
+Waters11 CP-ABE         72.02     10.77    65.21    42.73
+CGW15 CP-ABE k=2       394.69    163.35    91.90    21.94
+ABGW17 CP-ABE           12.31     54.21    25.74    42.54
+FAME CP-ABE k=2         21.60     74.58    58.39    21.61
+FABEO CP-ABE             9.96     11.83    23.68    11.62
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=20  n2=20  m=20  i=20
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            20.07     29.98    56.55    14.93
+BSW07 CP-ABE            18.35    106.06   111.21   144.80
+Waters11 CP-ABE         69.75     16.41   122.47    77.36
+CGW15 CP-ABE k=2       393.59    299.94   184.39    22.80
+ABGW17 CP-ABE           12.19     99.93    51.71    77.48
+FAME CP-ABE k=2         22.12    129.62   101.90    22.13
+FABEO CP-ABE             9.80     18.29    37.21    11.03
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=30  n2=30  m=30  i=30
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.23     43.73    74.27    14.85
+BSW07 CP-ABE            18.50    157.25   163.43   216.71
+Waters11 CP-ABE         70.99     22.30   182.96   113.79
+CGW15 CP-ABE k=2       393.41    434.81   274.18    23.45
+ABGW17 CP-ABE           12.31    146.18    74.39   113.58
+FAME CP-ABE k=2         21.58    184.30   143.58    22.97
+FABEO CP-ABE             9.91     24.46    49.94    11.19
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=40  n2=40  m=40  i=40
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.72     54.68    93.43    14.94
+BSW07 CP-ABE            18.47    210.40   217.77   285.63
+Waters11 CP-ABE         70.44     28.09   242.45   148.28
+CGW15 CP-ABE k=2       394.55    573.46   367.88    24.32
+ABGW17 CP-ABE           12.42    190.05   100.47   148.35
+FAME CP-ABE k=2         21.59    241.28   188.04    22.70
+FABEO CP-ABE             9.79     30.42    62.48    11.25
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=50  n2=50  m=50  i=50
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.44     67.21   112.39    15.34
+BSW07 CP-ABE            18.60    262.02   272.25   355.22
+Waters11 CP-ABE         70.35     33.25   297.22   184.74
+CGW15 CP-ABE k=2       393.89    707.08   459.38    25.06
+ABGW17 CP-ABE           12.33    235.70   124.07   185.90
+FAME CP-ABE k=2         21.64    296.40   230.41    22.75
+FABEO CP-ABE             9.62     37.11    78.25    11.31
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=60  n2=60  m=60  i=60
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.79     80.40   133.57    14.96
+BSW07 CP-ABE            18.92    316.08   323.81   426.18
+Waters11 CP-ABE         70.74     39.34   356.09   218.58
+CGW15 CP-ABE k=2       395.20    845.47   551.07    25.19
+ABGW17 CP-ABE           12.34    284.16   150.06   218.07
+FAME CP-ABE k=2         21.83    356.45   271.84    22.66
+FABEO CP-ABE            10.12     43.03    90.89    11.52
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=70  n2=70  m=70  i=70
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.92     92.57   154.71    15.35
+BSW07 CP-ABE            18.49    366.03   374.19   495.09
+Waters11 CP-ABE         70.18     45.18   415.63   253.51
+CGW15 CP-ABE k=2       390.92    975.78   639.26    26.19
+ABGW17 CP-ABE           12.21    324.31   175.23   254.31
+FAME CP-ABE k=2         21.70    406.98   315.26    22.98
+FABEO CP-ABE             9.71     48.99   102.83    11.59
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=80  n2=80  m=80  i=80
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.12    105.50   172.89    15.57
+BSW07 CP-ABE            18.64    420.35   429.46   569.51
+Waters11 CP-ABE         71.87     51.17   475.16   288.15
+CGW15 CP-ABE k=2       395.01   1118.46   737.82    26.69
+ABGW17 CP-ABE           12.12    372.82   204.19   292.69
+FAME CP-ABE k=2         21.90    469.73   363.07    23.34
+FABEO CP-ABE             9.88     56.22   117.58    11.68
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=90  n2=90  m=90  i=90
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.10    118.97   196.94    15.51
+BSW07 CP-ABE            18.70    476.58   484.48   642.11
+Waters11 CP-ABE         72.07     57.61   536.43   325.24
+CGW15 CP-ABE k=2       396.15   1253.19   831.72    27.50
+ABGW17 CP-ABE           12.37    421.80   228.14   326.90
+FAME CP-ABE k=2         21.82    525.91   404.90    23.19
+FABEO CP-ABE            10.00     62.29   132.91    11.83
+
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=100
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.86    131.65   214.23    15.60
+BSW07 CP-ABE            18.91    526.77   537.14   715.40
+Waters11 CP-ABE         71.11     63.13   595.45   361.89
+CGW15 CP-ABE k=2       397.37   1398.08   927.90    27.61
+ABGW17 CP-ABE           12.34    472.83   253.07   363.39
+FAME CP-ABE k=2         23.32    604.99   463.40    24.45
+FABEO CP-ABE            10.36     70.92   148.21    12.80
+
+# New experiments of the updated CP-ABE construction
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=10  n2=10  m=10  i=10
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.74     17.40    35.50    14.74
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=20  n2=20  m=20  i=20
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            20.42     32.50    57.86    16.31
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=30  n2=30  m=30  i=30
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            20.12     45.26    77.66    16.72
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=40  n2=40  m=40  i=40
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.74     54.45    91.81    15.29
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=50  n2=50  m=50  i=50
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.07     71.17   117.83    15.87
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=60  n2=60  m=60  i=60
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.56     79.68   129.41    15.05
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=70  n2=70  m=70  i=70
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.95     90.59   149.85    14.82
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=80  n2=80  m=80  i=80
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.96    102.16   169.51    15.00
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=90  n2=90  m=90  i=90
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            18.37    117.68   190.33    15.12
+**************************************************************
+CP-ABE: Running times (ms) curve MNT224: n1=100  n2=100  m=100  i=100
+CP-ABE                  Setup    KeyGen     Enc      Dec
+FEABE CP-ABE            19.65    133.20   212.99    16.48
+**************************************************************
