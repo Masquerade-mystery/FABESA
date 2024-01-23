@@ -16,6 +16,8 @@ The code uses the Charm library and Python and builds upon the code of [FEASE] h
 8. FEASE, USENIX 2024 [8]
 9. CWDWL, IEEE TDSC 2016 [9]
 10. CDWL, ProvSec 2016 [10]
+11. FABESA KP-ABE and Anonymous KP-ABE
+12. FABESA CP-ABE and Anonymous CP-ABE
 
 All schemes are implemented using asymmetric Type-III pairing groups.
 
