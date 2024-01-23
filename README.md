@@ -2,7 +2,7 @@ This is the code for the paper "FABESA: Fast Attribute-Based Encryption with Ada
 
 This paper proposes fast ABE schemes that are adaptive secure under the Decisional Linear (DLIN) assumption. Compare to the state-of-the-art ABE schemes FAME CCS'17 and FABEO'22, the proposed ABE schemes are faster than FAME and very close to FABEO. Besides, the proposed ABE schemes satisfy ciphertext anonymity so they can be easily bridged to partially anonymous ABE schemes by adopting the partially hidden structure. Compare to the state-of-the-art anonymous KP-ABE schemes FEASE [3], CWDWL'16 [4], and anonymous CP-ABE scheme CDWL'16 [5], the proposed anonymous KP-ABE scheme performs very close to FEASE and outperforms CWDWL'16, the proposed anonymous CP-ABE schemes surpasses CDWL'16. 
 
-The code uses the Charm library and Python and builds upon the code of [FEASE] https://github.com/DoreenRiepel/FABEO (2022). We provide the implementation of the following schemes:
+The code uses the Charm library and Python and builds upon the code of [FEASE] https://github.com/Masquerade99/FEASE.git. We provide the implementation of the following schemes:
 
 FAME, CCS 2017 [1]
 FABEO, CCS 2022 [2]
