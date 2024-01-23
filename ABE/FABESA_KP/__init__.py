@@ -1,6 +1,6 @@
 '''
 
-| From: "Fast (and Anonymous) Attribute-Based Encryption with Adaptive Security under Standard Assumption"
+| From: "FABESA: Fast (and Anonymous) Attribute-Based Encryption with Adaptive Security under Standard Assumption"
 | Notes: Implemented the scheme in Figure 4 
 | type:           KP-ABE scheme
 | setting:        Type-III Pairing
