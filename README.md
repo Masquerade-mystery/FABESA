@@ -36,7 +36,15 @@ make && pip install . && python samples/run_cp_schemes.py
 
 ## References
 
-1. Cui H, Wan Z, Deng R H, et al. Efficient and expressive keyword search over encrypted data in cloud. IEEE Transactions on Dependable and Secure Computing, 2016, 15(3): 409-422.
-2. Meng R, Zhou Y, Ning J, et al. An efficient key-policy attribute-based searchable encryption in prime-order groups. Provable Security: 11th International Conference, ProvSec 2017, Xi'an, China, October 23-25, 2017, Proceedings 11. Springer International Publishing, 2017: 39-56.
-3. Agrawal S, Chase M. FAME: fast attribute-based message encryption. Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. 2017: 665-682.
-4. Riepel D, Wee H. FABEO: Fast Attribute-Based Encryption with Optimal Security. CCS '22: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, November 2022, Pages 2491–2504.
+1. Agrawal S, Chase M. FAME: fast attribute-based message encryption. Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, 2017. 
+2. Riepel D, Wee H. FABEO: Fast Attribute-Based Encryption with Optimal Security. Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, 2022.
+3. Goyal V, Pandey O, Sahai A, et al. Attribute-based encryption for fine-grained access control of encrypted data. Proceedings of the 13th ACM conference on Computer and communications security, 2006.
+4. Bethencourt J, Sahai A, Waters B. Ciphertext-policy attribute-based encryption. IEEE symposium on security and privacy, 2007.
+5. Waters B. Ciphertext-policy attribute-based encryption: An expressive, efficient, and provably secure realization. International workshop on public key cryptography, 2011.
+6. Chen J, Gay R, Wee H. Improved dual system ABE in prime-order groups via predicate encodings. Annual International Conference on the Theory and Applications of Cryptographic Techniques, 2015.
+7. Ambrona M, Barthe G, Gay R, et al. Attribute-based encryption in the generic group model: Automated proofs and new constructions. Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, 2017.
+8. Meng L, Chen L, Tian Y, et al. FEASE: Fast and Expressive Asymmetric Searchable Encryption. USENIX Security Symposium, 2024.
+9. Cui H, Wan Z, Deng R H, et al. Efficient and expressive keyword search over encrypted data in cloud. IEEE Transactions on Dependable and Secure Computing, 2016.
+10. Cui H, Deng R H, Wu G, et al. An efficient and expressive ciphertext-policy attribute-based encryption scheme with partially hidden access structures. Provable Security: 10th International Conference, 2016.
+   
+
