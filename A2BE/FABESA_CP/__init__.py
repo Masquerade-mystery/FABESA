@@ -1,6 +1,6 @@
 '''
 
-| From: "FABESA: Fast (and Anonymous) Attribute-Based Encryption with Adaptive Security under Standard Assumption"       
+| From: "FABESA: Fast (and Anonymous) Attribute-Based Encryption under Standard Assumption"       
 | type:           Anonymous CP-ABE scheme
 | setting:        Type-III Pairing
 
